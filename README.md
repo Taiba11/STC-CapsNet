@@ -8,7 +8,6 @@ This repository contains the implementation of the paper **"STC-CapsNet: Detecti
 - `code/`: Contains Jupyter Notebooks for preprocessing and model implementation.
 - `data/`: Placeholder for datasets (not included for copyright reasons).
 - `results/`: Results of the model evaluation.
-- `README.md`: This file.
 - `requirements.txt`: Python dependencies.
 - `LICENSE`: Licensing information.
 
