@@ -9,7 +9,7 @@ This repository contains the implementation of the paper **"STC-CapsNet: Detecti
 - `data/`: Placeholder for datasets (not included for copyright reasons).
 - `results/`: Results of the model evaluation.
 - `requirements.txt`: Python dependencies.
-- `LICENSE`: Licensing information.
+
 
 ## Features
 - Preprocessing of audio data (noise reduction, silence removal).
