@@ -1,4 +1,5 @@
-# STC-CapsNet
+# STC-CapsNet-Detecting-Audio-Deepfakes-
+
 # STC-CapsNet: Detecting Audio Deepfakes with Spatio-Temporal Convolutions and Capsule Networks
 
 This repository contains the implementation of the paper **"STC-CapsNet: Detecting Audio Deepfakes with Spatio-Temporal Convolutions and Capsule Networks"**.
