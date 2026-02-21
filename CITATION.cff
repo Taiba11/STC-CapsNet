@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "STC-CapsNet: Detecting Audio Deepfakes with Spatio-Temporal Convolutions and Capsule Networks"
+type: software
+authors:
+  - family-names: "Wani"
+    given-names: "Taiba Majid"
+    email: "majid@diag.uniroma1.it"
+    affiliation: "Sapienza University of Rome"
+  - family-names: "Qadri"
+    given-names: "Syed Asif Ahmad"
+    email: "syedasif@m110.nthu.edu.tw"
+    affiliation: "National Tsing Hua University"
+  - family-names: "Amerini"
+    given-names: "Irene"
+    email: "amerini@diag.uniroma1.it"
+    affiliation: "Sapienza University of Rome"
+preferred-citation:
+  type: conference-paper
+  title: "STC-CapsNet: Detecting Audio Deepfakes with Spatio-Temporal Convolutions and Capsule Networks"
+  authors:
+    - family-names: "Wani"
+      given-names: "Taiba Majid"
+    - family-names: "Qadri"
+      given-names: "Syed Asif Ahmad"
+    - family-names: "Amerini"
+      given-names: "Irene"
+  collection-title: "2025 IEEE Symposium on Computational Intelligence in Image, Signal Processing and Synthetic Media (CISM)"
+  year: 2025
+  doi: "10.1109/CISM64958.2025.11060861"
+  publisher: "IEEE"
