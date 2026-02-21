@@ -1,0 +1,12 @@
+# STC-CapsNet: Grayscale Spectrogram Configuration
+features:
+  type: "grayscale"
+  n_fft: 2048
+  hop_length: 512
+  image_size: [128, 128]
+
+dataset:
+  name: "for"
+  data_dir: "data/FoR"
+
+output_dir: "experiments/for_gray"
